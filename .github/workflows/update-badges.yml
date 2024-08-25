@@ -1,0 +1,17 @@
+name: Update badges
+
+on:
+  schedule:
+    # Corre a las 0am UTC todos los días
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          CREDLY_USER: nlem
