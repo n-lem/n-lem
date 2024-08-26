@@ -55,7 +55,7 @@
 
 <div align="center">
   
-  ## 🎓 Ejercicios de cursos 🎓
+  ## 📚️ Ejercicios de cursos 📚️
 
   <table>
     <tr>
@@ -80,8 +80,10 @@
   ## 🏆 Logros y Certificaciones 🏆
    ### Últimas certificaciones
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+  <!--START_SECTION:badges-->
+  <!--END_SECTION:badges-->
+  
+</div>
 
 ---
 
@@ -122,7 +124,7 @@
   
   ⭐️ De [Nahuel Lemos](https://github.com/n-lem)
   
-  <img src="https://komarev.com/ghpvc/?username=n-lem&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=n-lem&color=blueviolet" alt="Visitas" />
   
 </div>
 <!--
