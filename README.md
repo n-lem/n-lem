@@ -81,7 +81,12 @@
    ### Últimas certificaciones
 
   <!--START_SECTION:badges-->
-  <!--END_SECTION:badges-->
+[![Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](http://www.credly.com/badges/bb8c799d-8008-4128-baf1-1ec60cc290d5 "Networking Basics")
+[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/94fee760-d3c8-44db-9961-6c54fec3f54f "Introduction to Cybersecurity")
+[![Agile Explorer](https://images.credly.com/size/110x110/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png)](http://www.credly.com/badges/2e9200d5-63b7-4008-95d6-2997317dc5c9 "Agile Explorer")
+[![Explore Emerging Tech](https://images.credly.com/size/110x110/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)](http://www.credly.com/badges/c6214660-0573-4cd2-9a55-b4284cd376ad "Explore Emerging Tech")
+[![Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](http://www.credly.com/badges/55c2c589-30e9-4e17-ba69-4da5922d9cfe "Python Essentials 1")
+<!--END_SECTION:badges-->
   
 </div>
 
